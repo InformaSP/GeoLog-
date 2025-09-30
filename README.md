@@ -1,4 +1,6 @@
 # GeoLog 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f0e230b-87c4-41b9-8057-afddec5ab5a9" />
+
 
 # Aprendizado por Projeto Integrado (API) 
 
@@ -18,7 +20,25 @@ Nós, alunos do 2° semestre do curso de Logística da Fatec, desenvolvemos este
 * [Autores](#autores)
 
 # Projeto (API) 
-No primeiro semestre do curso de Logística, fomos incumbidos de atender à demanda de um cliente que solicitou uma análise detalhada e dinâmica sobre os países que mais importam produtos dos municípios paulistas, com foco nos anos de 2023 e 2024. A análise concentrou-se principalmente nos cinco municípios que mais exportam em quilogramas (Kg), buscando destacar tanto o valor FOB (Free On Board) das mercadorias — que representa o custo da exportação até o ponto de embarque — quanto o valor agregado (VA), entendido como a riqueza gerada ao longo do processo produtivo. Além disso, o projeto contempla o desenvolvimento de um modelo de projeção baseado em tendências de mercado, com o objetivo de analisar e prever oportunidades no setor de exportações. Em um segundo momento, buscamos avaliar a distribuição estatística dos produtos exportados, com o intuito de identificar padrões e variações que impactam a logística de importação. A base de dados utilizada foi obtida por meio da plataforma oficial do governo brasileiro: gov.br.
+No segundo semestre do curso de Logística, fomos incumbidos de atender à demanda de um cliente que solicitou uma análise detalhada e dinâmica sobre Tratamento de dados no Google Colab (Python), incluindo limpeza, normalização e preparação da base de 2013 a 2023 do Fluxo de Cargas Especiais e Perigosas de Empresas com
+Registro no RAPP e Análise estatística de acidentes viários com veículos
+pesados e avaliação de proximidade dos acidentes com pontos de
+parada de descanso, usando a Base de dados IBAMA 
+
+# Desenvolvimento de dashboard no Power BI, apresentando:
+principais cargas movimentadas;
+modais utilizados;
+origens e destinos;
+evolução ao longo do tempo;
+empresas envolvidas;
+acidentes viários com veículos pesados e sua proximidade com pontos de descanso.
+Análises e visualizações em mapas e gráficos de tendência, com possibilidade de segmentar por estado e nível nacional.
+Documentação técnica com scripts em Python e boas práticas.
+
+Entrega final:
+Dashboard funcional, limpo e intuitivo.
+Relatório técnico com análises e recomendações.
+Material que possa apoiar estudos acadêmicos e formulação de políticas públicas.
 
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
@@ -48,18 +68,14 @@ Futuramente
 |Team Member   | Kelvin Sampaio  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-sampaio-139a462b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Objetivo do Projeto
-Desenvolver uma ferramenta de Business Intelligence que apresente o tratamento de dados do
-IBAMA para cargas especiais para analisar os indicadores de movimentação de cargas. O sistema
-deve apresentar métricas por estado e nacionalmente, como: quais cargas movimentadas,
-principais modais de transporte, matriz OD, entre outros, visando:
-* Facilitar a tomada de decisões;
-* Identificar as oportunidades de mercado;
-* Mitigação de riscos;
-* Planejamento da logística empresarial e operacional;
-* Monitoramento de desempenho;
-* Análise de tendências.
+O objetivo do projeto é desenvolver um dashboard interativo em Power BI, com base em dados do IBAMA e de órgãos públicos, para:
+Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
+Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
+Acompanhar a evolução ao longo do tempo (2013 a 2023).
+Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
+Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
   
   <div>
   <img align="center" alt="jira" heigh="50" width="160" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png"> 
@@ -72,7 +88,7 @@ principais modais de transporte, matriz OD, entre outros, visando:
 
    <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
 
-   <img align="center" alt="sql" heigh="20" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"> 
+    
   
 
  </div>
@@ -80,40 +96,52 @@ principais modais de transporte, matriz OD, entre outros, visando:
 
 # Cronograma das Sprints
 
-## Cronograma
+# Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 # Sprints
-
-Sprint | Previsão | Status| Histórico|
+ Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-|Kick Off | 10/03/2025 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 31/03/2025| concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  05/05/2025| concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 26/05/2025 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções|17/06/2025 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
+|Kick Off | 03/09/2025 | concluído|  | 
+| 01 | 01/10/2025| a fazer |  | 
+| 02 | 22/10/2025| a fazer |  | 
+| 03 | 19/11/2025 | a fazer |  | 
+| Feira de Soluções | 04/12/2025 | a fazer |  | 
 
 # Requisitos
 
-Requisitos funcionais 
-- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
-- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
-- Modelo de projeção de tendência da produtividade dos shiploaders
-- Compartilhamento do código pelo Google COLAB
-- Rankeamento dos portos por meio da aplicação do DEA
+# Requisitos funcionais 
+- Dashboard em Power BI, com interface limpa e intuitiva.
+- Visualização de dados de 2013 a 2023.
+- Segmentação por região (estadual e nacional).
+- Gráficos e mapas interativos mostrando:
+  - principais cargas movimentadas;
+  - modais de transporte utilizados;
+  - origens e destinos;
+  - evolução da movimentação ao longo do tempo;
+  - empresas que movimentam cargas perigosas;
+  - acidentes viários com veículos pesados;
+  - proximidade entre acidentes e pontos de parada de descanso.
 
+# Requisitos Técnicos
+- RN.P.1 → Preparar, limpar e normalizar a base de dados no Google Colab, acessando diretamente os dados públicos do IBAMA.
+- RN.P.2 → Desenvolver o back-end em Python 3+.
+- RN.P.3 → Desenvolver o front-end em Power BI.
+- RN.P.4 → Usar o GitHub para controle de versão.
+- RN.P.5 → Garantir navegação intuitiva (poucos cliques para acessar informações).
+- RN.P.6 → O sistema deve ser responsivo (funcionar bem em diferentes dispositivos).
 
-Requisitos não funcionais
+# Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira / SQL / Linguagem R 
   
 # Backlog do produto
   
-   - 
+<img width="828" height="1273" alt="image" src="https://github.com/user-attachments/assets/5b3a01d1-ab93-41a0-b93e-c6934a8ae44f" />
 
-     #### Sprint 1
+
+#### Sprint 1
 - [x] Criar backlogs
 - [x] Criação do Repositório no GitHub
 - [x] Estudar linguagem de programação R

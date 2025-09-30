@@ -182,13 +182,5 @@ Clique aqui para acessar o código:
 
 <a href="https://colab.research.google.com/drive/1yBmpH12KLuFQcmD0Kjxgq6GC3MxB-mlR?usp=sharing"> Phython </a>
 
-- Dashboard
+# Dashboard
 
-![image](https://github.com/user-attachments/assets/004edba0-b5c8-4c52-a150-4fe88aa1c6d5)
-
-
-![image](https://github.com/user-attachments/assets/502436db-57d2-40dc-b341-79f6ac335753)
-
-![image](https://github.com/user-attachments/assets/f697e96f-c330-4ae6-8f07-d9c10484f8c0)
-
-![image](https://github.com/user-attachments/assets/af1032da-8058-450d-964d-3b22045ba64b)

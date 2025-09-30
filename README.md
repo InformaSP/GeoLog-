@@ -86,7 +86,7 @@ Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públic
   
   <img align="center" alt="python" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
 
-   <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
+  <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
 
     
   

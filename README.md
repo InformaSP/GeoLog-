@@ -141,33 +141,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <img width="828" height="1273" alt="image" src="https://github.com/user-attachments/assets/5b3a01d1-ab93-41a0-b93e-c6934a8ae44f" />
 
 
-#### Sprint 1
-- [x] Criar backlogs
-- [x] Criação do Repositório no GitHub
-- [x] Estudar linguagem de programação R
-- [x] Desenvolvimento e aprendizagem da metodologia DEA
-- [x] Analisar dados
-
-#### Sprint 2
-- [x] Criação de código para tratar os dados no Phython
-- [x] Calcular a prancha média operacional mensal
-- [x] Criar gráfico de tendência do produto
-- [x] Calcular o tempo de processamento dos shiploaders
-- [x] Desenvolvimento protótipo do dashboard
-- [x] Variavéis DEA
-
-#### Sprint 3
-- [x] Elaborar de um ranking de eficiência para os 6 principais terminais de movimentação de graneis de milho por meio do DEA
-- [x] Análise do tempo de espera e operação
-- [x] Ajuste no dashboard
-
-
-#### Sprint 4
-- [x] Ajsutes finais do dashboard
-
-
-
-
 </div>
 
 </div>
@@ -180,7 +153,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 Clique aqui para acessar o código:
 
-<a href="https://colab.research.google.com/drive/1yBmpH12KLuFQcmD0Kjxgq6GC3MxB-mlR?usp=sharing"> Phython </a>
+<a href="https://colab.research.google.com/drive/149nh_yrM3ENzM0GXe39IxUmlKM2R2Isu?usp=sharing"> Phython </a>
 
 # Dashboard
+<img width="1123" height="641" alt="image" src="https://github.com/user-attachments/assets/dbe8fee7-5a50-4df0-b2d7-640e38029e1f" />
+
 

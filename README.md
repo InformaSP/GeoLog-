@@ -22,6 +22,18 @@ Registro no RAPP e Análise estatística de acidentes viários com veículos
 pesados e avaliação de proximidade dos acidentes com pontos de
 parada de descanso, usando a Base de dados IBAMA 
 
+
+# Equipe
+| Função       |Nome             | Linkedin     |
+|--------------|-----------------|--------------|
+|Team Member | Camila Martins  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-martins-515405219/)
+|Team Member | Manoela Nobre  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-batista-nobre-800206271/)
+|Team Member | Vitória Beatriz |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-beatriz-mariano-6281a8292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+|Product Owner  | Gabriele Fujita |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-fujita-4151b0198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+|Scrum Master   | Ana R. Araújo   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ara%C3%BAjo-tom%C3%A9-754936215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+|Team Member   | Kelvin Sampaio  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-sampaio-139a462b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 # Desenvolvimento de dashboard no Power BI, apresentando:
 principais cargas movimentadas;
 modais utilizados;
@@ -50,17 +62,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
-
-
-# Equipe
-| Função       |Nome             | Linkedin     |
-|--------------|-----------------|--------------|
-|Team Member | Camila Martins  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-martins-515405219/)
-|Team Member | Manoela Nobre  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-batista-nobre-800206271/)
-|Team Member | Vitória Beatriz |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-beatriz-mariano-6281a8292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-|Product Owner  | Gabriele Fujita |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-fujita-4151b0198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-|Scrum Master   | Ana R. Araújo   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ara%C3%BAjo-tom%C3%A9-754936215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-|Team Member   | Kelvin Sampaio  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-sampaio-139a462b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+   
 
 # Objetivo do Projeto
 O objetivo do projeto é desenvolver um dashboard interativo em Power BI, com base em dados do IBAMA e de órgãos públicos, para:
@@ -70,19 +72,13 @@ Acompanhar a evolução ao longo do tempo (2013 a 2023).
 Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
 Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
-# Tecnologias Utilizadas
-  
-  <div>
-  <img align="center" alt="jira" heigh="50" width="160" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png"> 
-  
-  <img align="center" alt="github" heigh="40" width="140" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"> 
-  
-  <img align="center" alt="powerbi" heigh="40" width="140" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">  
-  
-  <img align="center" alt="python" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
+## Tecnologias Utilizadas
 
-  <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
-
+* Google Colab
+* Power BI
+* Mysql
+* 
+  
     
   
 

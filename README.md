@@ -34,6 +34,14 @@ parada de descanso, usando a Base de dados IBAMA
 |Team Member   | Kelvin Sampaio  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-sampaio-139a462b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
+# Objetivo do Projeto
+O projeto consiste em desenvolver um dashboard interativo em Power BI, com base em dados do IBAMA e de órgãos públicos, com objetivo de:
+Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
+Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
+Acompanhar a evolução ao longo do tempo (2013 a 2023).
+Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
+Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
+
 # Desenvolvimento de dashboard no Power BI, apresentando:
 principais cargas movimentadas;
 modais utilizados;
@@ -63,14 +71,6 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
    
-
-# Objetivo do Projeto
-O objetivo do projeto é desenvolver um dashboard interativo em Power BI, com base em dados do IBAMA e de órgãos públicos, para:
-Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
-Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
-Acompanhar a evolução ao longo do tempo (2013 a 2023).
-Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
-Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
 ## Tecnologias Utilizadas
 

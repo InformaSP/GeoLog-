@@ -56,8 +56,8 @@ O projeto tem como objetivo desenvolver uma ferramenta para análise de indicado
 
  Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
-| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 
-| 2    | alta      | Como Gestor quero acesso a um dashboard que contenha o fluxo de cargas especiais e perigosas no período de 2013 a 2024 
+| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 1  |
+| 2    | alta      | Como Gestor quero acesso a um dashboard que contenha o fluxo de cargas especiais e perigosas do período de 2013 a 2024| 3  | 1  | 
 | 3    | média     |  
 |      |
 

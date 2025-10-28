@@ -35,7 +35,7 @@ parada de descanso, usando a Base de dados IBAMA
 
 
 # Objetivo do Projeto
-O projeto consiste em desenvolver um dashboard interativo em Power BI, com base em dados do IBAMA e de órgãos públicos, com objetivo de:
+O projeto tem como objetivo desenvolver uma ferramenta para analisar indicadores de movimentação de cargas, apresentando métricas por estado e nacionalmente visando:
 Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
 Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
 Acompanhar a evolução ao longo do tempo (2013 a 2023).
@@ -45,8 +45,8 @@ Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públic
 
  Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
-| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário 
-| 2    | alta      | 
+| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 
+| 2    | alta      | Como Gestor quero acesso a um dashboard que contenha o fluxo de cargas especiais e perigosas no período de 2013 a 2024 
 | 3    | média     |  
 |      |
 

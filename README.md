@@ -66,7 +66,7 @@ O projeto tem como objetivo desenvolver uma ferramenta para análise de indicado
 | 10  | média | Como Analista, quero ter acesso a evolução da frota de veículos dos 5 municípios que mais transportaram cargas perigosas e poluentes durante o período| 4  | 3  |
 
 # Desenvolvimento de dashboard no Power BI, apresentando:
-principais cargas movimentadas;
+Principais cargas movimentadas;
 modais utilizados;
 origens e destinos;
 evolução ao longo do tempo;

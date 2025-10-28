@@ -100,49 +100,10 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 
 
 
-# Requisitos
-
-# Requisitos funcionais 
-- Dashboard em Power BI, com interface limpa e intuitiva.
-- Visualização de dados de 2013 a 2023.
-- Segmentação por região (estadual e nacional).
-- Gráficos e mapas interativos mostrando:
-  - principais cargas movimentadas;
-  - modais de transporte utilizados;
-  - origens e destinos;
-  - evolução da movimentação ao longo do tempo;
-  - empresas que movimentam cargas perigosas;
-  - acidentes viários com veículos pesados;
-  - proximidade entre acidentes e pontos de parada de descanso.
-
-# Requisitos Técnicos
-- RN.P.1 → Preparar, limpar e normalizar a base de dados no Google Colab, acessando diretamente os dados públicos do IBAMA.
-- RN.P.2 → Desenvolver o back-end em Python 3+.
-- RN.P.3 → Desenvolver o front-end em Power BI.
-- RN.P.4 → Usar o GitHub para controle de versão.
-- RN.P.5 → Garantir navegação intuitiva (poucos cliques para acessar informações).
-- RN.P.6 → O sistema deve ser responsivo (funcionar bem em diferentes dispositivos).
-
-# Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / SQL / Linguagem R 
-  
-</div>
-
-</div>
 
 
 
 
 
-# MVP do produto
-
-Clique aqui para acessar o código:
-
-<a href="https://colab.research.google.com/drive/149nh_yrM3ENzM0GXe39IxUmlKM2R2Isu?usp=sharing"> Phython </a>
-
-# Dashboard
-<img width="1123" height="641" alt="image" src="https://github.com/user-attachments/assets/dbe8fee7-5a50-4df0-b2d7-640e38029e1f" />
 
 

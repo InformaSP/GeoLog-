@@ -43,11 +43,14 @@ Relacionar acidentes viários com veículos pesados e verificar a proximidade co
 Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
 
-| Rank | Prioridade | User Story.                                                                     | Estimativa |
-|------|------------|---------------------------------------------------------------------------------|-------------|-------|
-| 1    |
-| 2    |
-| 3    |
+ Rank | Prioridade | User Story                                                     | Estimativa  | Sprint     |
+|------|-----------|----------------------------------------------------------------|-------------|------------|
+| 1    | alta      |
+| 2    | baixa     | 
+| 3    | média     |  
+|      |
+
+
 # Desenvolvimento de dashboard no Power BI, apresentando:
 principais cargas movimentadas;
 modais utilizados;
@@ -63,6 +66,7 @@ Dashboard funcional, limpo e intuitivo.
 Relatório técnico com análises e recomendações.
 Material que possa apoiar estudos acadêmicos e formulação de políticas públicas.
 
+ 
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 |Kick Off | 03/09/2025 | concluído|  | 
@@ -83,7 +87,8 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 * Google Colab
 * Power BI
 * Mysql
-* 
+* Trello
+* Git Hub
   
     
   
@@ -91,7 +96,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
  </div>
  
 
-# Cronograma das Sprints
+# Registro das Sprints
 
 # Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.

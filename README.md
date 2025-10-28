@@ -43,10 +43,10 @@ Relacionar acidentes viários com veículos pesados e verificar a proximidade co
 Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
 
- Rank | Prioridade | User Story                                                     | Estimativa  | Sprint     |
-|------|-----------|----------------------------------------------------------------|-------------|------------|
-| 1    | alta      |
-| 2    | baixa     | 
+ Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
+|------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
+| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário 
+| 2    | alta      | 
 | 3    | média     |  
 |      |
 

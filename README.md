@@ -42,6 +42,12 @@ Acompanhar a evolução ao longo do tempo (2013 a 2023).
 Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
 Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
+
+| Rank | Prioridade | User Story.                                                                     | Estimativa |
+|------|------------|---------------------------------------------------------------------------------|-------------|-------|
+| 1    |
+| 2    |
+| 3    |
 # Desenvolvimento de dashboard no Power BI, apresentando:
 principais cargas movimentadas;
 modais utilizados;

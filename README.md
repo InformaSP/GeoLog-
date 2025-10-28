@@ -36,11 +36,11 @@ parada de descanso, usando a Base de dados IBAMA
 
 # Objetivo do Projeto
 O projeto tem como objetivo desenvolver uma ferramenta para analisar indicadores de movimentação de cargas, apresentando métricas por estado e nacionalmente visando:
-Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
-Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
-Acompanhar a evolução ao longo do tempo (2013 a 2023).
-Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
-Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
+* Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
+* Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
+* Acompanhar a evolução ao longo do tempo (2013 a 2023).
+* Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
+* Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
 
 ## Tecnologias Utilizadas
@@ -84,7 +84,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 |------|--------|------|--------|
 |Kick Off | 03/09/2025 | concluído|  | 
 | 01 | 01/10/2025| concluído |  | 
-| 02 | 22/10/2025| em processo |  | 
+| 02 | 29/10/2025| em processo |  | 
 | 03 | 19/11/2025 | a fazer |  | 
 | Feira de Soluções | 04/12/2025 | a fazer |  | 
 
@@ -95,22 +95,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 </p>
   
 
- </div>
- 
-
-# Registro das Sprints
-
-# Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-# Sprints
- Sprint | Previsão | Status | Histórico |
-|------|--------|------|--------|
-|Kick Off | 03/09/2025 | concluído|  | 
-| 01 | 01/10/2025| a fazer |  | 
-| 02 | 22/10/2025| a fazer |  | 
-| 03 | 19/11/2025 | a fazer |  | 
-| Feira de Soluções | 04/12/2025 | a fazer |  | 
+  |  | 
 
 # Requisitos
 

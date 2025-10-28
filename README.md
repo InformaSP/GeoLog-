@@ -43,6 +43,17 @@ Relacionar acidentes viários com veículos pesados e verificar a proximidade co
 Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
 
+## Tecnologias Utilizadas
+
+* Google Colab
+* Power BI
+* Mysql
+* Trello
+* Git Hub
+
+  
+# Product Backlog 
+
  Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
 | 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 
@@ -66,12 +77,14 @@ Dashboard funcional, limpo e intuitivo.
 Relatório técnico com análises e recomendações.
 Material que possa apoiar estudos acadêmicos e formulação de políticas públicas.
 
+
+ # Registro das Sprints
  
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 |Kick Off | 03/09/2025 | concluído|  | 
-| 01 | 01/10/2025| a fazer |  | 
-| 02 | 22/10/2025| a fazer |  | 
+| 01 | 01/10/2025| concluído |  | 
+| 02 | 22/10/2025| em processo |  | 
 | 03 | 19/11/2025 | a fazer |  | 
 | Feira de Soluções | 04/12/2025 | a fazer |  | 
 
@@ -80,17 +93,6 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
-   
-
-## Tecnologias Utilizadas
-
-* Google Colab
-* Power BI
-* Mysql
-* Trello
-* Git Hub
-  
-    
   
 
  </div>
@@ -138,15 +140,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Metodologias ágil
 - Power BI / Jira / SQL / Linguagem R 
   
-# Backlog do produto
-  
-<img width="828" height="1273" alt="image" src="https://github.com/user-attachments/assets/5b3a01d1-ab93-41a0-b93e-c6934a8ae44f" />
-
-
 </div>
 
 </div>
-</div>
+
 
 
 

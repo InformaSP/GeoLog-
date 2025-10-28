@@ -56,10 +56,12 @@ O projeto tem como objetivo desenvolver uma ferramenta para análise de indicado
 
  Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
-| 1    | alta      | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 1  |
-| 2    | alta      | Como Gestor quero acesso a um dashboard que contenha o fluxo de cargas especiais e perigosas do período de 2013 a 2024| 3  | 1  | 
-| 3    | média     |  
-|      |
+| 1    | alta     | Como Analista quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 1  |
+| 2    | alta     | Como Gestor quero acesso a um dashboard que contenha o Fluxo de Cargas Especiais e Perigosas do período de 2013 a 2024 de empresas que possuem registro RAPP ativo| 3  | 1  | 
+| 3    | alta     |  Como Tomador de decisões logísticas quero um ranking com as 5 regiões em que mais ocorrem acidentes envolvendo cargas pesadas| 2  | 1  | 
+| 4    | média   | Como Analista quero acesso ao top 5 municípios que mais movimentaram cargas perigosas e poluentes por frota| 3  | 1  | 
+| 5    | baixa  | Como Gestor quero acesso relação das 5 empresas que mais poluiram e a situação do cadastro no RAPP| 2  | 2
+| 6    |
 
 
 # Desenvolvimento de dashboard no Power BI, apresentando:

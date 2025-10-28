@@ -35,7 +35,7 @@ parada de descanso, usando a Base de dados IBAMA
 
 
 # Objetivo do Projeto
-O projeto tem como objetivo desenvolver uma ferramenta para analise de indicadores das movimentações de cargas, apresentando métricas por estado e nacionalmente visando:
+O projeto tem como objetivo desenvolver uma ferramenta para análise de indicadores das movimentações de cargas, apresentando métricas por estado e nacionalmente visando:
 * Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
 * Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
 * Acompanhar a evolução ao longo do tempo (2013 a 2023).

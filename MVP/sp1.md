@@ -4,5 +4,13 @@
 > 
 
 ## 📝 Descrição da Solução 
-> A limpeza e filtragem da base de dados será realizada para melhor visualização de informações permitindo fácil acesso às informações importantes.
-> filtros serão inseridos para melhor construção de gráficos e métricas de comparação entre os anos propostos e visualização sobre a problemática de acidentes com veículos pesados próximos ao ponto de descanso.
+* A limpeza e filtragem da base de dados será realizada para melhor visualização de informações permitindo fácil acesso às informações importantes.
+* filtros serão inseridos para melhor construção de gráficos e métricas de comparação entre os anos propostos e visualização sobre a problemática de acidentes com veículos pesados próximos ao ponto de descanso.
+
+
+## 👥 Personas / Usuário Alvo
+- ** IPEM
+- ** Marcus Nascimento (cliente)
+
+
+## 🔑 User stories

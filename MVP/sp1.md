@@ -27,7 +27,9 @@ Rank | Prioridade | User Story                                                  
 |--------|----------------------------------------------|----------|
 | 01     | Limpeza e tratamento das bases de dados       | Concluído|
 | 01     | Filtragem por modal, priorizando o rodoviário | Concluído|
-| 01     |  | Concluído|
+| 01     | Dashboard do Fluxo de Cargas Especiais e Perigosas de 2021 a 2025 cadastradas no RAPP| Concluído|
+| 01     | Ranking das 5 regiões em que mais tiveram acidentes com cargas pesadas | Concluído|
+
 
 
 ## 📊 Critérios de Aceitação

@@ -84,11 +84,10 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
  
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-|Kick Off | 03/09/2025 | concluído|  | 
 | 01 | 01/10/2025| concluído |  | 
-| 02 | 29/10/2025| em processo |  | 
-| 03 | 19/11/2025 | a fazer |  | 
-| Feira de Soluções | 04/12/2025 | a fazer |  | 
+| 02 | 29/10/2025| concluído |  | 
+| 03 | 19/11/2025 | em processo |  | 
+| Feira de Soluções | 04/12/2025 | em processo |  | 
 
 
 

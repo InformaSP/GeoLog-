@@ -28,3 +28,30 @@ Rank | Prioridade | User Story                                                  
 | 01     | Limpeza e tratamento das bases de dados       | Concluído|
 | 01     | Filtragem por modal, priorizando o rodoviário | Concluído|
 | 01     |  | Concluído|
+
+
+## 📊 Critérios de Aceitação
+- O MVP deve permitir que o usuário [ação principal]  
+- O sistema deve registrar [evento importante]  
+- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+
+---
+
+## 📈 Métricas de Validação
+- Número de usuários que testaram o MVP  
+- Feedback qualitativo (positivo/negativo)  
+- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+
+---
+
+## 🚀 Próximos Passos
+- Melhorias planejadas após feedback  
+- Ajustes de usabilidade  
+- Expansão de funcionalidades para próximo incremento  
+
+---
+
+## 📂 Anexos / Evidências
+- Prints de tela  
+- Fluxos ou protótipos  
+- Vídeo (MVP)  

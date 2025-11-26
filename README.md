@@ -1,4 +1,4 @@
-|# GeoLog 
+# GeoLog 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f0e230b-87c4-41b9-8057-afddec5ab5a9" />
 
 

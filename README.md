@@ -1,4 +1,4 @@
-# GeoLog 
+|# GeoLog 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f0e230b-87c4-41b9-8057-afddec5ab5a9" />
 
 
@@ -16,7 +16,7 @@ Nós, alunos do 2° semestre do curso de Logística da Fatec, desenvolvemos este
 
 
 # Projeto (API) 
-No segundo semestre do curso de Logística, fomos desafiados a desenvolver uma ferramenta com tratamento de dados do IBAMA que permita uma análise detalhada e dinâmica sobre os indicadores  de movimentação de cargas, no processo incluido a limpeza e a  preparação da base de 2021 a 2025 do Fluxo de Cargas Especiais e Perigosas de Empresas com Registro no RAPP, a Análise estatística de acidentes viários com veículos pesados e avaliação de proximidade dos acidentes com pontos de
+No segundo semestre do curso de Logística, fomos desafiados a desenvolver uma ferramenta com tratamento de dados do IBAMA que permita uma análise detalhada e dinâmica sobre os indicadores  de movimentação de cargas perigosas, no processo incluido a limpeza e a  preparação da base de 2021 a 2025 do Fluxo de Cargas Especiais e Perigosas de Empresas com Registro no RAPP, a Análise estatística de acidentes viários com veículos pesados e avaliação de proximidade dos acidentes com pontos de
 parada de descanso. 
 
 

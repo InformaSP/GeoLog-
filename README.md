@@ -84,7 +84,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
  
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-| 01 | 01/10/2025| concluído | [sp1.md]    | 
+| 01 | 01/10/2025| concluído | [MVP](MVP/sp1.md)]    | 
 | 02 | 29/10/2025| concluído |  | 
 | 03 | 28/11/2025 | em processo |  | 
 | Feira de Soluções | 04/12/2025 | em processo |  | 

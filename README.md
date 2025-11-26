@@ -60,7 +60,7 @@ O projeto tem como objetivo desenvolver uma ferramenta para análise de indicado
 | 5    | baixa  | Como Tomador de decisões quero acesso relação das 5 empresas que mais poluiram e a situação do cadastro no RAPP| 2  | 2
 | 6    | alta  | Como Tomador de decisões logísticas, quero a relação dos principais modais utilizados para a movimentação de cargas perigosas| 2  | 2  |
 | 7    | alta  | Como Tomador de decisões, quero a relação das cinco principais origens e destinos da movimentação de cargas perigosas, para tomada de decisões futuras e ações de prevenção e otimização de fiscalizações| 2   | 2   |
-| 8    | alta   | Como Tomador de decisões, quero a relação dos pontos de descanso para motoristas de caminhões de carga perigosa em um raio de 100km das regiões em que mais ocorrem acidentes envolvendo cargas perigosas| 3   | 4   |
+| 8    | alta   | Como Tomador de decisões, quero a relação dos pontos de descanso para motoristas de caminhões de carga perigosa em um raio de 100km das regiões em que mais ocorrem acidentes envolvendo cargas perigosas| 3   | 3  |
 | 9   | alta  | Como Tomador de decisões logísticas, gostaria de ter acesso a um relatório técnico detalhando boas práticas dos 3 estados que menos causaram acidentes de transporte de cargas perigosas e quais os desafios enfrentados| 6  | 3  |
 | 10  | média | Como Tomador de decisões, quero ter acesso a evolução da frota de veículos dos 5 municípios que mais transportaram cargas perigosas e poluentes durante o período| 4  | 3  |
 

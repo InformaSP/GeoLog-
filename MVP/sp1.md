@@ -33,23 +33,23 @@ Rank | Prioridade | User Story                                                  
 
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário tenha uma ideia do dashboard final e suas informações 
+- O sistema deve registrar a limpeza e filtragem de dados em python
+- Métricas coletadas: foi possível identificar a quantidade de acidentes, em quais modais, quando são de cargas perigosas ou não, quantos óbitos foram contabilizados dentro de um certo tempo e mais dados passíveis de interpretação dentro do banco de dados.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Todo o grupo validou a limpeza de dados posterior feedback do cliente
+- Tivemos um primeiro retorno com foco em melhorias e de que formas otimizar a limpeza de dados e posteriormente foi possível extrair tudo que precisavamos
+ 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Foi possível pensar em propostas de solução e interesse nos porquês da incidência de acidentes desse tipo de carga  
+- Ajustes de dashboard com foco em responder as questões em análise 
+- Focar em desenvolver filtros que facilitem a visualização no dash
 
 ---
 

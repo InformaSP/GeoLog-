@@ -44,8 +44,8 @@ Rank | Prioridade | User Story                                                  
 
 ## 🚀 Próximos Passos
 - Melhorias apenas no design 
-- Preparação para apresentação final e Feira de Soluções   
-
+- Preparação para apresentação final e Feira de Soluções
+- Criar mais um face no dash com objetivo de melhor separar informações 
 ---
 
 ## 📂 Anexos / Evidências

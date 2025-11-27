@@ -1,6 +1,6 @@
 ## 📌 MVP - GeoLog 2⁰ sprint
 ## 🎯 Objetivo do MVP       
-> A segunda sprint do nosso projeto tem como objetivo o desenvolvimento de um dashboard com backend em python, facilitando a visualização de dados como a prevalência do modal rodoviário no transporte de cargas perigosas, a movimentação das cargas registradas no RAPP e o top 5 municipios que mais movimentaram cargas perigosas e poluentes por frota dentro dos anos de 2021 á 2025 evidenciando o Fluxo de Cargas Especiais e Perigosas para fins de análises consistentes e otimizações desenvolvidas ao decorrer do projeto.
+> A segunda sprint do nosso projeto tem como objetivo evidenciar mais detalhes sobre todo arredor do processo de cargas perigosas como as empresas que mais poluiram,  a prevalência do modal rodoviário no transporte de cargas perigosas, a movimentação dessas empresas registradas no RAPP, identificar a relação entre o top 5 origens e destinos mais utilizados e entender os porquês, utilizar dos dados para otimizar o dashboard com ainda mais informações sobre o Fluxo de Cargas Especiais e Perigosas para fins de análises consistentes e otimizações.
 > 
 
 ## 📝 Descrição da Solução 

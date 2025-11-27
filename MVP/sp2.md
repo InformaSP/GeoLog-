@@ -4,8 +4,9 @@
 > 
 
 ## 📝 Descrição da Solução 
-* A limpeza e filtragem da base de dados será realizada para melhor visualização de informações permitindo fácil acesso às informações importantes.
-* filtros serão inseridos para melhor construção de gráficos e métricas de comparação entre os anos propostos e visualização sobre a problemática de acidentes com veículos pesados próximos ao ponto de descanso.
+* Refizemos a limpeza e filtragem de dados de forma mais eficiente e produtiva
+* Foram inseridos filtros no dashboard baseados nos dados que o cliente exigiu como origens e destinos
+* Tornamos o dashboar ainda mais claro, sucinto e objetivo.
 
 
 ## 👥 Personas / Usuário Alvo

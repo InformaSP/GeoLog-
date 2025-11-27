@@ -1,11 +1,13 @@
 ## 📌 MVP - GeoLog 3⁰ sprint
 ## 🎯 Objetivo do MVP       
-> A terceira sprint do nosso projeto tem como objetivo o desenvolvimento de um dashboard com backend em python, facilitando a visualização de dados como a prevalência do modal rodoviário no transporte de cargas perigosas, a movimentação das cargas registradas no RAPP e o top 5 municipios que mais movimentaram cargas perigosas e poluentes por frota dentro dos anos de 2021 á 2025 evidenciando o Fluxo de Cargas Especiais e Perigosas para fins de análises consistentes e otimizações desenvolvidas ao decorrer do projeto.
+> A terceira sprint do nosso projeto tem como objetivo o desenvolvimento de um vídeo para a plataforma do YouTube, evidenciando a funcionalidade do nosso dashboard já aprovado anteriormente com todas as informações requisitadas pelo cliente quando o desafio nos foi proposto, entregar um frontend capaz de gerar informações e respostas para as pesquisas que fizemos e os questionamentos que fomos desafiados a responder.
 > 
 
 ## 📝 Descrição da Solução 
-* A limpeza e filtragem da base de dados será realizada para melhor visualização de informações permitindo fácil acesso às informações importantes.
-* filtros serão inseridos para melhor construção de gráficos e métricas de comparação entre os anos propostos e visualização sobre a problemática de acidentes com veículos pesados próximos ao ponto de descanso.
+* Dashboar completo, filtros em funcionamento e faces do PowerBI finalizadas.
+* Evidências das regiões onde mais houveram acidentes e suas correlações
+* Municípios que mais movimentaram cargas perigosas e poluentes por frota
+
 
 
 ## 👥 Personas / Usuário Alvo

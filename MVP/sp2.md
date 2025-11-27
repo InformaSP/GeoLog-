@@ -24,13 +24,14 @@ Rank | Prioridade | User Story                                                  
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Limpeza e tratamento das bases de dados       | Concluído|
-| 01     | Filtragem por modal, priorizando o rodoviário | Concluído|
-| 01     |  | Concluído|
+| 02     | Otimizações no dashboard, tornando mais claro e visível as informações adicionando mais filtros  | Concluído|
+| 02     | Responder as questões em analize baseadas nos requisitos do cliente| Concluído|
+| 02     |  Tornar visivel no dashboard as principais origens e destinos das cargas perigosas | Concluído|
+| 02     |  Mostrar os principais modais utilizados na movimentação de cargas perigosas| Concluído|
 
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
+- O MVP deve permitir que o usuário   
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 

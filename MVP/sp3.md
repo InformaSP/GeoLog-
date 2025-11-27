@@ -4,7 +4,7 @@
 > 
 
 ## 📝 Descrição da Solução 
-* Dashboar completo, filtros em funcionamento e faces do PowerBI finalizadas.
+* Dashboard completo, filtros em funcionamento e faces do PowerBI finalizadas.
 * Evidências das regiões onde mais houveram acidentes e suas correlações
 * Municípios que mais movimentaram cargas perigosas e poluentes por frota
 
@@ -18,38 +18,33 @@
 ## 🔑 User stories
 Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
-| 1    | alta     | Como Tomador de decisões quero acesso a dados limpos e tratados em python, com informações filtradas em modal rodoviário para melhor análise das causas| 3  | 1  |
-| 2    | alta     | Como Tomador de decisões quero acesso a um dashboard que contenha o Fluxo de Cargas Especiais e Perigosas do período de 2021 a 2025 de empresas que possuem registro RAPP ativo| 3  | 1  | 
-| 3    | alta     |  Como Tomador de decisões logísticas quero um ranking com as cinco regiões em que mais ocorrem acidentes envolvendo cargas pesadas| 2  | 1  | 
-| 4    | média   | Como Tomador de decisões quero acesso ao top 5 municípios que mais movimentaram cargas perigosas e poluentes por frota| 3  | 1  | 
-
+| 8    | alta   | Como Tomador de decisões, quero a relação dos pontos de descanso para motoristas de caminhões de carga perigosa em um raio de 100km das regiões em que mais ocorrem acidentes envolvendo cargas perigosas| 3   | 3  |
+| 9   | alta  | Como Tomador de decisões logísticas, gostaria de ter acesso a um relatório técnico detalhando boas práticas dos 3 estados que menos causaram acidentes de transporte de cargas perigosas e quais os desafios enfrentados| 6  | 3  |
+| 10  | média | Como Tomador de decisões, quero ter acesso a evolução da frota de veículos dos 5 municípios que mais transportaram cargas perigosas e poluentes durante o período| 4  | 3  |
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Limpeza e tratamento das bases de dados       | Concluído|
-| 01     | Filtragem por modal, priorizando o rodoviário | Concluído|
-| 01     |  | Concluído|
+| 03     | Dashboard em PowerBI interface limpa       | Concluído|
+| 03     | Limpeza e filtragem em Phython | Concluído|
+| 03     | Análises com dados coletados e métricas do Dashboard  | Concluído|
 
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário encontre todas as informações necessárias sobre o Fluxo de Cargas Especiais e Perigosas 
+- O sistema deve registrar os resultados mediante os gráficos 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Dashboard aprovado pelo cliente
+- Feedback positivo/negativo  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Postagem do vídeo da equipe
+- Feira de Soluções    
 
 ---
 

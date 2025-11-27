@@ -49,6 +49,5 @@ Rank | Prioridade | User Story                                                  
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- https://github.com/user-attachments/assets/194230ce-7791-47cb-9697-71a5fd590f2e
+

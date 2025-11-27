@@ -26,28 +26,24 @@ Rank | Prioridade | User Story                                                  
 |--------|----------------------------------------------|----------|
 | 02     | Otimizações no dashboard, tornando mais claro e visível as informações adicionando mais filtros  | Concluído|
 | 02     | Responder as questões em analize baseadas nos requisitos do cliente| Concluído|
-| 02     |  Tornar visivel no dashboard as principais origens e destinos das cargas perigosas | Concluído|
-| 02     |  Mostrar os principais modais utilizados na movimentação de cargas perigosas| Concluído|
+| 02     | Tornar visivel no dashboard as principais origens e destinos das cargas perigosas | Concluído|
+| 02     | Mostrar os principais modais utilizados na movimentação de cargas perigosas| Concluído|
 
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário   
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize os filtros do dashboard, identificando principais modais utilizados, e origens e destinos. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- O grupo novamente testou em conjunto do cliente
+- Feedback qualitativo o dashboard foi aprovado e finalizado
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Melhorias apenas no design 
+- Preparação para apresentação final e Feira de Soluções   
 
 ---
 

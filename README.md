@@ -35,7 +35,7 @@ parada de descanso.
 O projeto tem como objetivo desenvolver uma ferramenta para análise de indicadores das movimentações de cargas, apresentando métricas por estado e nacionalmente visando:
 * Analisar o fluxo de cargas especiais e perigosas no Brasil (por estado e nacionalmente).
 * Identificar padrões logísticos, como principais cargas, modais de transporte, origens e destinos.
-* Acompanhar a evolução ao longo do tempo (2013 a 2023).
+* Acompanhar a evolução ao longo do tempo (2021 a 2025).
 * Relacionar acidentes viários com veículos pesados e verificar a proximidade com pontos de parada de descanso.
 * Apoiar a tomada de decisão, estudos acadêmicos e possíveis políticas públicas voltadas à segurança e eficiência no transporte de cargas perigosas.
 
